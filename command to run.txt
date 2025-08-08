@@ -1,3 +1,0 @@
-g++ main.cpp snake.cpp food.cpp -o snake_game.exe
-
-./snake_game.exe
